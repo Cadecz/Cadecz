@@ -2,7 +2,7 @@
 
 ###
 
-<img> src="https://media.tenor.com/b6SEUoUlC4gAAAAd/yeat-twizzyrich.gif" </img>
+<img src="https://media.tenor.com/b6SEUoUlC4gAAAAd/yeat-twizzyrich.gif" </img>
 
 ###
 
