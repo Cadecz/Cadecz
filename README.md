@@ -1,4 +1,4 @@
-[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.uaT_ksJvPDiLRLwYuI081QHaEK&pid=Api&P=0&h=180)]
+![MasterHead](https://tse2.mm.bing.net/th?id=OIP.uaT_ksJvPDiLRLwYuI081QHaEK&pid=Api&P=0&h=180)
 <h2 align="left">Hi I'm Cam</h2>
 
 ###
