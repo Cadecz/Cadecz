@@ -16,6 +16,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://media.tenor.com/ksSLcZ488AYAAAAC/yeat.gif" alt="Yeat animation" />
 
 ###
